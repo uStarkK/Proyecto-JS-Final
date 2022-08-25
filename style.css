@@ -1,0 +1,32 @@
+.alumno{
+    background-color: bisque;
+    margin-right: 1%;
+    margin-top: 5px;
+    color: black;
+    padding: 1%;
+}
+
+
+.containerBotonMode{
+    display: flex;
+    justify-content: space-between;
+}
+
+body{
+    color: black;
+    background-color: antiquewhite;
+    transition: ease 1.2s;
+}
+
+.darkMode{
+    color: antiquewhite;
+    background-color: rgb(43, 41, 41);
+}
+
+.containerAlumnosClass{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 45vh;
+    width: 20vw;
+}

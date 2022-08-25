@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Hola Samu</title>
+</head>
+
+<body>
+  <div class="containerBotonMode">
+    <div><input type="text" id="searchAlumno" placeholder="Buscar Alumno" aria-label="Search"></div>
+    <div>
+      <p> TEMAS </p>
+      <button id="lightMode">Claro</button>
+      <button id="darkMode">Oscuro</button>
+    </div>
+  </div>
+  <div class="containerFormAlumnos">
+    <form id="añadirAlumnos">
+      <div class="form-floating mb-3">
+        <input type="text" class="form-control" id="cargarNombre" placeholder="Nombre">
+        <label for="floatingInput">Nombre</label>
+      </div>
+      <div class="form-floating mb-3">
+        <input type="text" class="form-control" id="cargarApellido" placeholder="Apellido">
+        <label for="floatingInput">Apellido</label>
+      </div>
+      <div class="form-floating">
+        <input type="number" class="form-control" id="cargarEdad" placeholder="Edad" min="8" max="100">
+        <label for="floatingPassword">Edad</label>
+      </div>
+      <div class="form-floating mb-3">
+        <input type="number" class="form-control" id="cargarNota" placeholder="Nota" min="1" max="10">
+        <label for="floatingInput">Nota</label>
+      </div>
+      <button type="submit" id="cargarAlumno">Añadir Alumno</button>
+    </form>
+    <button type="button" id="mostrarAprobados">Mostrar aprobados</button>
+    <button type="button" id="mostrarNoAprobados">Mostrar no aprobados</button>
+    <button type="button" id="mostrarTodos">Mostrar todos</button>
+    <button type="button" id="promediar">Promediar notas</button>
+  </div>
+  <script src="script.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+
+</html>

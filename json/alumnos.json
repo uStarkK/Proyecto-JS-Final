@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Nahuel Nicolas",
+        "apellido": "Garnica Mazzei",
+        "edad": 20,
+        "nota": 8
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Picapiedra",
+        "edad": 43,
+        "nota": 7
+    },
+    {
+        "nombre": "Julian Matias",
+        "apellido": "Rodriguez",
+        "edad": 17,
+        "nota": 3
+    },
+    {
+        "nombre": "Ignacio",
+        "apellido": "Hoerth",
+        "edad": 30,
+        "nota": 10
+    },
+    {
+        "nombre": "Matias",
+        "apellido": "Mediapizza",
+        "edad": 27,
+        "nota": 2
+    },
+    {
+        "nombre": "Facundo Florencio",
+        "apellido": "Galvan Morales",
+        "edad": 32,
+        "nota": 5
+    },
+    {
+        "nombre": "Federico M.",
+        "apellido": "Gimenez",
+        "edad": 19,
+        "nota": 7
+    },
+    {
+        "nombre": "Juan Carlos",
+        "apellido": "Pereyra",
+        "edad": 22,
+        "nota": 8
+    },
+    {
+        "nombre": "Rocío",
+        "apellido": "Mendez",
+        "edad": 16,
+        "nota": 9
+    },
+    {
+        "nombre": "María Julieta",
+        "apellido": "Gutierrez",
+        "edad": 20,
+        "nota": 6
+    },
+    {
+        "nombre": "Zoe",
+        "apellido": "Pereyra",
+        "edad": 21,
+        "nota": 4
+    },
+    {
+        "nombre": "Juana",
+        "apellido": "Martata",
+        "edad": 27,
+        "nota": 5
+    },
+    {
+        "nombre": "Juliana",
+        "apellido": "Diaz Herson",
+        "edad": 19,
+        "nota": 4
+    },
+    {
+        "nombre": "Elizabeth",
+        "apellido": "Olcen",
+        "edad": 25,
+        "nota": 7
+    },
+    {
+        "nombre": "Clara Belén",
+        "apellido": "Mondongo",
+        "edad": 21,
+        "nota": 4
+    }
+]
